@@ -1,9 +1,9 @@
 {
-  "name": "private-data",
+  "name": "generator-vue-cli-bg",
   "version": "1.0.0",
   "description": "This is an optimized scaffold based on vue-cli",
   "author": "qyc",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
